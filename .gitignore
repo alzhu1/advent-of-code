@@ -1,2 +1,7 @@
+.DS_Store
+
 # No inputs
 input*.txt
+
+# Java - no .class
+*.class

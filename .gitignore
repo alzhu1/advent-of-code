@@ -1,7 +1,10 @@
 .DS_Store
 
 # No inputs
-input*.txt
+*.txt
 
 # Java - no .class
 *.class
+
+# C# - no .exe
+*.exe

@@ -1,5 +1,8 @@
 .DS_Store
 
+# VSCode folder
+.vscode
+
 # No inputs
 *.txt
 
@@ -8,3 +11,6 @@
 
 # C# - no .exe
 *.exe
+
+# C++ - no a.out
+a.out

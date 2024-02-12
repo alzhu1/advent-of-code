@@ -12,5 +12,6 @@
 # C# - no .exe
 *.exe
 
-# C++ - no a.out
+# C/C++ - no a.out or debug
+a.out.dSYM
 a.out
